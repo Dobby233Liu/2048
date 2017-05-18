@@ -1,4 +1,4 @@
-@import url(fonts/clear-sans.css);
+
 html, body {
   margin: 0;
   padding: 0;
@@ -122,10 +122,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "成绩"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "最佳"; }
 
 p {
   margin-top: 0;
